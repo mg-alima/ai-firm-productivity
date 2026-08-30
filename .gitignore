@@ -1,0 +1,22 @@
+# Confidential raw data
+data/*
+!data/README.md
+
+# Local Python environment
+.venv/
+
+# Temporary Jupyter files
+.ipynb_checkpoints/
+
+# Draft / working notebook
+notebooks/01_data_check.ipynb
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# macOS files
+.DS_Store
